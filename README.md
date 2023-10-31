@@ -3,7 +3,7 @@
 MVVM With Compose é um aplicativo que tem como principal função mostrar como utilizar o ViewModel junto ao Jetpack Compose e também utilizar o Hilt como injeção de dependência
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
+<img src="/result/img_1.png" width="260">
 
 ## Tecnologias
 * Kotlin
